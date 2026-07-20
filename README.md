@@ -1,7 +1,7 @@
 ``Olá! Eu sou o Marco...!``
 
-<a href="https://www.linkedin.com/in/marcoaeandrade/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="mailto:marco.andrade.ds@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="[marco.andrade.ds@gmail.com](https://mail.google.com/mail/u/1/#inbox)" target="_blank">
